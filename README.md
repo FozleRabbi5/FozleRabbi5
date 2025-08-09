@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fozle Rabbi
 
-### 💻 Full Stack Developer & Web Scraping Specialist | 🚀 FastAPI • React • Scrapy • LangChain • MongoDB
+### 💻 Full Stack and AI Developer & Web Scraping | 🚀 FastAPI • React • Scrapy • LangChain • MongoDB
 
 Welcome to my GitHub! I'm a passionate and versatile full-stack web developer with hands-on experience in building real-world applications, automating workflows, and integrating AI capabilities.
 
