@@ -22,7 +22,7 @@ I build high-performance web apps with **FastAPI** and **React**, scrape and aut
 ### 🛠️ Tech Stack
 
 **Frontend**  
-React, Next.js, TypeScript, Tailwind CSS, Zustand, React Hook Form, ShadCN/UI, Vercel  
+React, Next.js, TypeScript, Tailwind CSS
 
 **Backend**  
 FastAPI, Django, Python, MongoDB, PostgreSQL, Render, BackgroundTasks  
@@ -31,7 +31,7 @@ FastAPI, Django, Python, MongoDB, PostgreSQL, Render, BackgroundTasks
 Scrapy, Selenium, BeautifulSoup, Playwright, Pandas  
 
 **AI Integration**  
-LangChain, LangGraph, OpenAI API, Pinecone, Vector DBs  
+LangChain, LangGraph, OpenAI API, Vector DBs  
 
 **Other Tools**  
 REST APIs, GitHub Actions, OAuth2, PDFKit, WeasyPrint, Cloud Storage
